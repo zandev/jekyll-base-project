@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Makdown demo sheet
 ---
 

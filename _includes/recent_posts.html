@@ -1,5 +1,7 @@
-<div class="widget">
+<div>
 
+  <h3>Recent posts</h3>
+  
   {% for post in site.posts offset: 0 limit: 5 %}
 
     <div class="post {% cycle 'odd', 'even' %}">
@@ -13,7 +15,6 @@
         <br />
         » <a href="{{ post.url }}/">Read more</a>
       </div>
-
     </div>
 
   {% endfor %}

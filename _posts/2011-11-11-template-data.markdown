@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 [https://github.com/mojombo/jekyll/wiki/Template-Data](https://github.com/mojombo/jekyll/wiki/Template-Data)
